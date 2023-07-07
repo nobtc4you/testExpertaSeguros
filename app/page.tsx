@@ -20,7 +20,7 @@ export default function Home() {
             }(window, document, "script", "w1", 'https://magicform-widget-assets.s3.us-west-2.amazonaws.com/widget.js'));
             
             w1("init", {
-              "popUpTimer": 3000,
+              "popUpTimer": 1000,
               "imageUrl": null,
               "widgetType": "inline",
               "chatHeight": "80vh",
@@ -28,8 +28,8 @@ export default function Home() {
               "placeholder": "What's on your mind?",
               "title": "Live Chat Professional",
               "subtitle": "Typically Responds in 5 Seconds",
-              "stackId": "stack_8eaffec0-878d-4ce7-a922-c53592234b83",
-              "userId": "08e93b5d-df30-4ac2-9822-4899aa9dfa2e",
+              "stackId": "stack_d15e7b71-2dc7-4ede-aade-f4e66b748f96",
+              "userId": "bc5160a5-ddee-4994-a715-c428e6438204",
               "colors": {
                 "main": "#000000",
                 "userMessageBubble": "#000000"
